@@ -1,0 +1,19 @@
+.task1 {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 188, 235)
+}
+
+#task2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.task3 {
+    font-size: 24px;
+}
+
+#task4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
