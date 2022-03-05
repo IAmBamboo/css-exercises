@@ -1,0 +1,14 @@
+.ver1, .ver2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.ver1 {
+    background-color: black;
+    color: white;
+}
+
+.ver2 {
+    background-color: yellow;
+    color: black;
+}
